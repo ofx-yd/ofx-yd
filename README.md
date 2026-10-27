@@ -3,60 +3,47 @@
 
 ### Software Engineering Student | Aspiring Software Developer
 
-I'm a Software Engineering student at Addis Ababa Science and Technology University, currently pursuing my bachelor's degree and MSc studies.
+I'm a Software Engineering student at Addis Ababa Science and Technology University, pursuing my bachelor's degree and MSc studies.
 
-I'm passionate about building practical software solutions, learning new technologies, and improving my problem-solving skills through hands-on projects.
+I'm passionate about building practical software solutions, solving problems through code, and continuously improving my engineering skills.
 
 - 🎓 Software Engineering student at AASTU
 - 💻 Interested in web development and software engineering
-- 🌱 Currently developing my programming and database skills
-- 🚀 Building projects to solve practical problems
+- 🌱 Learning by building hands-on projects
 - 📍 Addis Ababa, Ethiopia
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-**Languages**
-- JavaScript
-- C++
-- Java
-- PHP
+**Languages:** JavaScript, C++, Java, PHP
 
-**Web Development**
-- HTML
-- CSS
-- React
+**Web Development:** HTML, CSS, React
 
-**Database**
-- MySQL
+**Database:** MySQL
 
-**Tools**
-- Git
-- GitHub
-- Visual Studio Code
+**Tools:** Git, GitHub, VS Code
 
-### 📂 Featured Projects
+### 🚀 Projects
 
-#### 1. Student Management System
-A project focused on organizing student records and learning application development.
+**Student Management System**
+- Developing an application focused on organizing student information.
+- Repository: [Add your project link here]
 
-#### 2. Personal Portfolio Website
-A personal website to showcase my background, technical skills, and projects.
-
-> More projects will be added as I build, test, and document them.
+**Personal Portfolio Website**
+- A website to showcase my background, skills, and projects.
+- Repository: [Add your project link here]
 
 ### 🎯 Current Goals
 
-- Strengthen my software engineering fundamentals
-- Build and document real-world projects
-- Improve my database and web development skills
-- Contribute to collaborative software projects
-- Prepare for software engineering internship opportunities
+- Build reliable and maintainable applications
+- Improve my database and software design skills
+- Develop a strong portfolio of practical projects
+- Prepare for software engineering internships
 
 ### 🤝 Connect With Me
 
-- **GitHub:** [@ofx-yd](https://github.com/ofx-yd)
-- **LinkedIn:** [Yidnekachew Zerihun](https://www.linkedin.com/in/yidnekachew-zerihun-5aa1aa356/)
-- **Email:** [ofxyd24@gmail.com](mailto:ofxyd24@gmail.com)
+- GitHub: [@ofx-yd](https://github.com/ofx-yd)
+- LinkedIn: [Yidnekachew Zerihun](https://www.linkedin.com/in/yidnekachew-zerihun-5aa1aa356/)
+- Email: [ofxyd24@gmail.com](mailto:ofxyd24@gmail.com)
 
 ---
 
